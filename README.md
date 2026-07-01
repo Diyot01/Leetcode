@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Diyot01/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Diyot01/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Hash Table
 |  |
 | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Diyot01/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Diyot01/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Two Pointers
 |  |
@@ -17,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Diyot01/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Diyot01/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
