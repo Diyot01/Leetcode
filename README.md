@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Diyot01/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Diyot01/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Diyot01/Leetcode/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Diyot01/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
