@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Diyot01/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Diyot01/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
