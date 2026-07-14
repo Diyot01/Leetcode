@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Diyot01/Leetcode/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Diyot01/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0496-next-greater-element-i](https://github.com/Diyot01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Diyot01/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Diyot01/Leetcode/tree/master/0041-first-missing-positive) |
 | [0496-next-greater-element-i](https://github.com/Diyot01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Diyot01/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Diyot01/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
