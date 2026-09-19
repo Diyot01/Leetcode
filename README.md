@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Diyot01/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0496-next-greater-element-i](https://github.com/Diyot01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0875-koko-eating-bananas](https://github.com/Diyot01/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0948-bag-of-tokens](https://github.com/Diyot01/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Diyot01/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2239-find-closest-number-to-zero](https://github.com/Diyot01/Leetcode/tree/master/2239-find-closest-number-to-zero) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Diyot01/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Diyot01/Leetcode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Diyot01/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Diyot01/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0948-bag-of-tokens](https://github.com/Diyot01/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Diyot01/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Diyot01/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Diyot01/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Diyot01/Leetcode/tree/master/0148-sort-list) |
+| [0948-bag-of-tokens](https://github.com/Diyot01/Leetcode/tree/master/0948-bag-of-tokens) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Diyot01/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 ## Counting
 |  |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Diyot01/Leetcode/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0948-bag-of-tokens](https://github.com/Diyot01/Leetcode/tree/master/0948-bag-of-tokens) |
 <!---LeetCode Topics End-->
