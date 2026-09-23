@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/Diyot01/Leetcode/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Diyot01/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Diyot01/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0496-next-greater-element-i](https://github.com/Diyot01/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0875-koko-eating-bananas](https://github.com/Diyot01/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0948-bag-of-tokens](https://github.com/Diyot01/Leetcode/tree/master/0948-bag-of-tokens) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Diyot01/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0948-bag-of-tokens](https://github.com/Diyot01/Leetcode/tree/master/0948-bag-of-tokens) |
 ## Tree
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Diyot01/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Diyot01/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
