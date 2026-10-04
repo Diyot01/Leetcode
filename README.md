@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Diyot01/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Diyot01/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Diyot01/Leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Diyot01/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Diyot01/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Diyot01/Leetcode/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/Diyot01/Leetcode/tree/master/0709-to-lower-case) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Diyot01/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Diyot01/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Diyot01/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
