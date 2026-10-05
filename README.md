@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Diyot01/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Diyot01/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Diyot01/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Diyot01/Leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Diyot01/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Diyot01/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Diyot01/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Diyot01/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Diyot01/Leetcode/tree/master/0014-longest-common-prefix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Diyot01/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
