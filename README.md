@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Diyot01/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Diyot01/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Diyot01/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Diyot01/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Diyot01/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Diyot01/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diyot01/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Diyot01/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Diyot01/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Diyot01/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Diyot01/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/Diyot01/Leetcode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Diyot01/Leetcode/tree/master/0148-sort-list) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Diyot01/Leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Diyot01/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Diyot01/Leetcode/tree/master/0242-valid-anagram) |
 | [0948-bag-of-tokens](https://github.com/Diyot01/Leetcode/tree/master/0948-bag-of-tokens) |
@@ -211,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Diyot01/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Diyot01/Leetcode/tree/master/0844-backspace-string-compare) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Diyot01/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Diyot01/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
