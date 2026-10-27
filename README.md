@@ -176,16 +176,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Diyot01/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Diyot01/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Diyot01/Leetcode/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Diyot01/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Diyot01/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Diyot01/Leetcode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Diyot01/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Diyot01/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Diyot01/Leetcode/tree/master/0101-symmetric-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Diyot01/Leetcode/tree/master/0075-sort-colors) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Diyot01/Leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
