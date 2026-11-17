@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Diyot01/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1407-top-travellers](https://github.com/Diyot01/Leetcode/tree/master/1407-top-travellers) |
 | [1661-average-time-of-process-per-machine](https://github.com/Diyot01/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
+| [1693-daily-leads-and-partners](https://github.com/Diyot01/Leetcode/tree/master/1693-daily-leads-and-partners) |
 ## Math
 |  |
 | ------- |
